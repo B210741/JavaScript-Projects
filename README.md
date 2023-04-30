@@ -1,1 +1,1 @@
-# JavaScript-Projects
+Created for Tech Academy's projects
